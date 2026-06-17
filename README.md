@@ -1,9 +1,9 @@
-# LexIndia - Full Stack Legal Dashboard
+# BharatLex - Full Stack Legal Dashboard
 
-LexIndia is a comprehensive, API-driven web application designed to simplify the Indian Penal Code and make complex laws easily accessible to everyone. It includes a user-facing law directory, an advanced search engine, and a fully functional Admin Dashboard for managing legal records, analytics, and platform users.
+BharatLex is a comprehensive, API-driven web application designed to simplify the Indian Penal Code and make complex laws easily accessible to everyone. It includes a user-facing law directory, an advanced search engine, and a fully functional Admin Dashboard for managing legal records, analytics, and platform users.
 
 <!-- Note to developer: Add a screenshot of your project here by uploading an image to GitHub and pasting the link below -->
-<!-- ![LexIndia Screenshot](YOUR_IMAGE_LINK_HERE) -->
+<!-- ![BharatLex Screenshot](YOUR_IMAGE_LINK_HERE) -->
 
 ---
 
@@ -111,7 +111,7 @@ The Express backend exposes the following RESTful API routes under `/api/v1`:
 
 ## ⚙️ Setup & Installation Instructions
 
-Follow these steps to run the LexIndia project locally on your machine.
+Follow these steps to run the BharatLex project locally on your machine.
 
 ### Prerequisites
 - **Node.js**: v18 or higher recommended.

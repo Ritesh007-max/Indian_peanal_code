@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <Scale className="h-6 w-6 text-primary" />
-              <span className="font-display font-bold text-xl text-text-primary">LexIndia</span>
+              <span className="font-display font-bold text-xl text-text-primary">BharatLex</span>
             </Link>
             <p className="text-text-secondary text-sm">
               India's comprehensive, easy-to-use legal reference platform. Simplifying the penal code and making laws accessible to everyone.
@@ -38,8 +38,8 @@ export default function Footer() {
         </div>
         
         <div className="mt-12 pt-8 border-t border-border text-center">
-          <p className="text-sm text-text-muted">
-            © {new Date().getFullYear()} LexIndia — Indian Law Reference Platform. All rights reserved.
+            <p className="text-sm text-text-muted">
+            © {new Date().getFullYear()} BharatLex — Indian Law Reference Platform. All rights reserved.
           </p>
         </div>
       </div>

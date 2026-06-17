@@ -6,7 +6,7 @@ import Button from '../../components/ui/Button';
 
 // Mock data for demonstration since the user backend isn't fully implemented
 const MOCK_USERS = [
-  { id: '1', name: 'Admin User', email: 'admin@lexindia.in', role: 'admin', joinDate: '2023-01-15T10:00:00Z', status: 'active' },
+  { id: '1', name: 'Admin User', email: 'admin@bharatlex.in', role: 'admin', joinDate: '2023-01-15T10:00:00Z', status: 'active' },
   { id: '2', name: 'John Doe', email: 'john.doe@example.com', role: 'user', joinDate: '2023-03-22T14:30:00Z', status: 'active' },
   { id: '3', name: 'Jane Smith', email: 'jane.smith@lawfirm.com', role: 'user', joinDate: '2023-06-10T09:15:00Z', status: 'active' },
   { id: '4', name: 'Suspended Account', email: 'spam@example.com', role: 'user', joinDate: '2023-08-05T11:45:00Z', status: 'suspended' },

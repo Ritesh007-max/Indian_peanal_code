@@ -32,8 +32,8 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-              <img src="/logo.png" alt="LexIndia Logo" className="h-8 w-auto" />
-              <span className="font-display font-bold text-2xl text-text-primary tracking-tight">LexIndia</span>
+              <img src="/logo.svg" alt="BharatLex Logo" className="h-8 w-auto" />
+              <span className="font-display font-bold text-2xl text-text-primary tracking-tight">BharatLex</span>
             </Link>
             
             <div className="hidden md:ml-10 md:flex md:space-x-8">

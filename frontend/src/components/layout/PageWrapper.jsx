@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Helmet } from 'react-helmet-async';
 
 export default function PageWrapper({ children, title, description, className = '' }) {
-  const pageTitle = title ? `${title} | LexIndia` : 'LexIndia — Indian Law Reference Platform';
+  const pageTitle = title ? `${title} | BharatLex` : 'BharatLex — Indian Law Reference Platform';
   const metaDescription = description || 'Simplifying the penal code and making laws accessible to everyone.';
 
   return (

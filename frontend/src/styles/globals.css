@@ -1,37 +1,38 @@
 @import "tailwindcss";
 
 :root {
-  --theme-primary: #C8410B;
-  --theme-primary-light: #F26522;
-  --theme-primary-hover: #A33408;
-  --theme-accent: #1B7A4A;
-  --theme-accent-light: #27AE60;
+  /* Primary palette: Navy (primary) + Saffron (accent) */
+  --theme-primary: #0B3D91;
+  --theme-primary-light: #2A5FFF;
+  --theme-primary-hover: #082E6B;
+  --theme-accent: #FF9F1C;
+  --theme-accent-light: #FFB857;
 
-  --theme-bg: #FAFAF7;
+  --theme-bg: #F8FAFF;
   --theme-surface: #FFFFFF;
-  --theme-surface-2: #F5F3EE;
-  --theme-border: #E2DDD5;
+  --theme-surface-2: #F1F5FF;
+  --theme-border: #E6EDF8;
 
-  --theme-text-primary: #1A1A1A;
-  --theme-text-secondary: #5A5550;
-  --theme-text-muted: #9A948D;
+  --theme-text-primary: #0F1724;
+  --theme-text-secondary: #475569;
+  --theme-text-muted: #94A3B8;
 
   --theme-error: #D93025;
-  --theme-warning: #E67E22;
+  --theme-warning: #FF8C42;
   --theme-info: #0077B6;
   --theme-success: #1B7A4A;
   --theme-gold: #C9A84C;
 }
 
 .dark {
-  --theme-bg: #121212;
-  --theme-surface: #1E1E1E;
-  --theme-surface-2: #2A2A2A;
-  --theme-border: #3A3A3A;
+  --theme-bg: #071026;
+  --theme-surface: #0F1724;
+  --theme-surface-2: #111827;
+  --theme-border: #1F2937;
 
-  --theme-text-primary: #F5F5F5;
-  --theme-text-secondary: #A0A0A0;
-  --theme-text-muted: #6B6B6B;
+  --theme-text-primary: #E6EEF8;
+  --theme-text-secondary: #AAB8C6;
+  --theme-text-muted: #6B7280;
 }
 
 @theme {
